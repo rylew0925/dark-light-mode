@@ -1,4 +1,5 @@
 [🔗 View Live Preview](https://rylew0925.github.io/javascript20-projects/Light-Dark-Mode/)
+- Richard Lew – [GitHub](https://github.com/rylew0925/javascript20-projects) | [View Live Demo](https://rylew0925.github.io/javascript20-projects/Light-Dark-Mode/)
 
 # 🌗 Dark and Light Mode Toggle Project
 
